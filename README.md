@@ -82,7 +82,7 @@ If you found this code or our work useful please cite us:
 }
 ```
 
-Our work is based on ProPos, thanks for their code. So please cite ProPos as well:
+Special thanks to the following paper:
 
 ```bibtex
 @article{huang2022learning,
@@ -95,3 +95,14 @@ Our work is based on ProPos, thanks for their code. So please cite ProPos as wel
 
 ```
 
+```bibtex
+@inproceedings{liu2022improving,
+  title={Improving Self-supervised Lightweight Model Learning via Hard-Aware Metric Distillation},
+  author={Liu, Hao and Ye, Mang},
+  booktitle={European Conference on Computer Vision},
+  pages={295--311},
+  year={2022},
+  organization={Springer}
+}
+
+```
