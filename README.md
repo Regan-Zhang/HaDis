@@ -54,7 +54,7 @@ export CUDA_VISIBLE_DEVICES=0 # use the first GPU
 python -m torch.distributed.launch --nproc_per_node=1 --master_port=17672 main.py config/cifar10_r18_propos.yml
 ```
 
-##### Aftering training, you can see the results including the logs of loss and metrics, and saved model.pth in`ckpt/`.
+##### Aftering training, you can see the results including the logs of loss and metrics, and saved model weights in`ckpt/`.
 
 We can also enable the WANDB (default not wandb) to visualize the training!
 
