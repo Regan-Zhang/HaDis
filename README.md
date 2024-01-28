@@ -30,7 +30,7 @@ Note that: For we have reproduced the  results  of  IDFD,  CC  and  ProPos  by  
 #### Install requirements
 
 Following ProPos, the kmeans and GMM clustering using pure PyTorch and the relative code can be found
-at https://github.com/Hzzone/torch_clustering.
+at https://github.com/Hzzone/torch_clustering. Nevertheless, I have downloaded the torch_clustering package for you, so you do not need to install again.
 
 Install requirements:
 
